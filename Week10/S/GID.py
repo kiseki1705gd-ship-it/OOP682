@@ -15,3 +15,6 @@ class HTMLReportGenerator:
             self.recipient = recipient
         def send(self, report):
             pass
+
+
+#fix
